@@ -11,8 +11,8 @@ import java.time.format.DateTimeFormatter;
 
 @Service
 public class InfoService {
-    String github_file_url = "kdfjkdStr";
-    String github_repo_url = "kdfjkdStr";
+    String github_file_url = "https://github.com/casyazmon/HNGx-project/blob/main/StageOneTask/src/main/java/com/casyazmon/StageOneTask/InfoService.java";
+    String github_repo_url = "https://github.com/casyazmon/HNGx-project/tree/main/StageOneTask";
 
     public InfoEntity getInfo(String slack_name, String track){
 
